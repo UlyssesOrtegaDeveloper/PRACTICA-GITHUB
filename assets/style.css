@@ -16,3 +16,8 @@ select {
     color: white;
     background-color: transparent;
 }
+
+ul li {
+    color: white;
+    padding: 1em;
+}
