@@ -12,6 +12,7 @@ p {
 
 select {
     padding: 1em;
+    color: white;
     border: 2px dashed red;
     background-color: transparent;
 }
